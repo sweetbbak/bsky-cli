@@ -13,7 +13,7 @@ import (
 	// "github.com/gorilla/websocket"
 	// "github.com/reiver/go-bsky/firehose"
 	// "bsky/pkg/firehose"
-	"github.com/sweetbbak/bsky-cli/firehose"
+	"github.com/sweetbbak/bsky-cli/pkg/firehose"
 
 	"github.com/bluesky-social/indigo/api/atproto"
 	comatproto "github.com/bluesky-social/indigo/api/atproto"
